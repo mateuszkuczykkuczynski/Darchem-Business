@@ -43,7 +43,7 @@ export default function Navbar() {
                             </div>
                             <div className="flex flex-1 justify-center">
                                 <div className="flex flex-shrink-0 items-center">
-                                    <h1 className="font-medium text-stone-50 text-lg">Darchem</h1>
+                                    <h1 className="font-medium text-white text-lg">Darchem</h1>
                                 </div>
                                 {/* Spacer */}
                                 <div className="sm:flex-grow"></div>
