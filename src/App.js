@@ -2,6 +2,8 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Hero from './components/HeroSection';
 import AboutUs from './components/AboutUs';
+import OurCustomers from './components/OurCustomers'
+import ContactForm from './components/ContactForm'
 
 function App() {
     return (
@@ -9,6 +11,8 @@ function App() {
             <Navbar />
             <Hero />
             <AboutUs />
+            <OurCustomers />
+            <ContactForm />
         </div>
     );
 }
