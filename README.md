@@ -1,4 +1,4 @@
-# Website release is planned for 16.11.2023!
+# Website release is planned for 16.11.2023 but new version of website were rewritten using Vue.js!
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
