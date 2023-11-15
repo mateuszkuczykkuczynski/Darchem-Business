@@ -1,5 +1,8 @@
 # Website release is planned for 16.11.2023 but new version of website were rewritten using Vue.js!
+# Will update this repository with link to other (updated) one. 
+# There is a chance this one repository will be deleted completely. 
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
