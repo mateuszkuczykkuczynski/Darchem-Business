@@ -1,3 +1,4 @@
+# Choosing way to deploy website
 # Currently working on last changes based on client requriments.
 # Website release will be delayed due the client changes.
 # Website release is planned for 24.11.2023 but new version of website were rewritten using Vue.js!
