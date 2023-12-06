@@ -1,3 +1,4 @@
+# Waiting for client approval
 # Choosing way to deploy website
 # Currently working on last changes based on client requriments.
 # Website release will be delayed due the client changes.
